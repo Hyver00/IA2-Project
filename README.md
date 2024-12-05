@@ -1,6 +1,7 @@
 # Clasificación de Huevos Fecundados y No Fecundados Mediante Inteligencia Artificial.
 
-![bannerIA2](https://github.com/user-attachments/assets/e0d2d6ac-1d57-4d26-9c62-9aa76bd8182c)
+![image](https://github.com/user-attachments/assets/b4d98b01-6b3e-431e-a63b-fc3fbf1385df)
+
 
 ## Autores
 Jose Gabriel Tomas Zapata, Juan David Patiño Pedraza, Sergio Nelson Alberto Gómez Gil.
