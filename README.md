@@ -52,7 +52,7 @@ CNN con drop out agregando Maxpooling y callbacks.
 ## Enlaces
 Código: https://github.com/Hyver00/IA2-Project
 
-Video:
+Video: https://youtu.be/1TUTSjA33Io
 
 Repositorio: https://github.com/Hyver00/IA2-Project
 
