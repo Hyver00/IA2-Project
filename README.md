@@ -22,6 +22,12 @@ El dataset cuenta con 200 imagenes de huevos fecundados y no fecundados en su to
 
 Para su descarga se debe seleccionar el apartado "Dataset" en el menú de la izquierda y una vez ahí dar click en el botón "Download" en la esquina superior derecha. Se Abrira un avisa de descarga en donde se debe seleccionar el formato del dataset, a lo cual deben elegir el formato "Milti-Label Classification" y luego indicar si quieren copiar el codigo para Colab o descargar el dataset como un archivo .zip. 
 
+Dataset Final: https://drive.google.com/file/d/1ezL9xkl14uli5dELuOP_OwPVWAiabbC1/view?usp=sharing
+
+Este fue un dataset modificado manualmente para disminuir ruido.
+
+Se puede descargar en las opciones en la esquina superior derecha.
+
 ## Modelos
 Sin definir
 
