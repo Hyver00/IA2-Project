@@ -1,6 +1,6 @@
 # Clasificación de Huevos Fecundados y No Fecundados Mediante Inteligencia Artificial.
 
-![image](https://github.com/user-attachments/assets/b4d98b01-6b3e-431e-a63b-fc3fbf1385df)
+![image](https://github.com/user-attachments/assets/cb1ccbdc-9e3c-4fbf-9681-5c332c852992)
 
 
 ## Autores
