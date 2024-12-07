@@ -29,7 +29,25 @@ Este fue un dataset modificado manualmente para disminuir ruido.
 Se puede descargar en las opciones en la esquina superior derecha.
 
 ## Modelos
-Sin definir
+DNN.
+
+CNN Básico.
+
+CNN aumentado.
+
+CNN aumentado con imágenes de grises.
+
+CNN aumentado cambiando el bach size.
+
+CNN con drop out.
+
+CNN con bach normalization.
+
+CNN con bach normalization y drop out.
+
+CNN con drop out agregando Maxpooling.
+
+CNN con drop out agregando Maxpooling y callbacks.
 
 ## Enlaces
 Código: https://github.com/Hyver00/IA2-Project
